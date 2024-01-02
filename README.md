@@ -4,6 +4,12 @@
 
 <br>
 
+## 💻 유튜브 강좌 따라해본 것들
+ - [나도코딩](https://www.youtube.com/@nadocoding)
+ 
+
+<br>
+
 ## 📂 설치 필요(기본환경) 
 - opencv 설치 : https://opencv.org/releases/
 - visual studio 설치
